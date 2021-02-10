@@ -36,8 +36,8 @@ I am currently a PhD student at Vrije Universiteit Brussels. My Ph.D. advisor is
      Developing a comprehensive earnings management score (EMS). [[Link]](http://indiafa.org/wp-content/uploads/2017/06/My-piece-May-2017-2.pdf) 
 
 # Coverage in Popular Press
-* **<font color="#1A5276">Ideas for India</font>**, **Jayanta 	Mandi**, Manisha Chakrabarty and 
+* **<font color="#1A5276">Ideas for India</font>**. **Jayanta 	Mandi**, Manisha Chakrabarty and 
 	Subhankar Mukherjee. "How to ease Covid-19 lockdown? Forward guidance using a multi-dimensional vulnerability index". [[Link]](https://www.ideasforindia.in/topics/macroeconomics/how-to-ease-covid-19-lockdown-forward-guidance-using-a-multidimensional-vulnerability-index.html)
 
-* **<font color="#1A5276">Business Standrd</font>**, Ashok Banerjee, **Jayanta 	Mandi** and Deep N 
+* **<font color="#1A5276">Business Standrd</font>**. Ashok Banerjee, **Jayanta 	Mandi** and Deep N 
 	Mukherjee. "Earnings management in stressed firms". [[Link]](https://www.business-standard.com/article/companies/earnings-management-in-stressed-firms-117073101722_1.html)
