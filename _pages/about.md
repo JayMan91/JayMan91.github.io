@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student at Vrije Universiteit Brussels. My Ph.D. advisor is [Prof. dr. Tias Guns](http://homepages.vub.ac.be/~tiasguns/). My research falls at the confluence of machine learning and constraint optimization. I am particularly interested in "Predict and Optimize" framework, where I work on embedding differentiable optimization layer into a machine learning framework.
+I am currently a PhD student at Vrije Universiteit Brussels. My Ph.D. advisor is [Prof. dr. Tias Guns](http://homepages.vub.ac.be/~tiasguns/). My research falls at the confluence of machine learning and constraint optimization. I am particularly interested in "Predict and Optimize" framework, where I focus on integrating constraint optimization into machine learning framworks.
 
 
 # Conference Articles
