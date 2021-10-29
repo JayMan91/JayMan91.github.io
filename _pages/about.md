@@ -12,6 +12,9 @@ I am currently a PhD student at Vrije Universiteit Brussels. My Ph.D. advisor is
 
 
 # Conference Articles
+*   **Jayanta Mandi**, Rocsildes Canoy, Victor Bucarey Lopez and Tias Guns.
+    *<font color="#1A5276">Data Driven VRP: A Neural Network Model to Learn Hidden Preferences for VRP</font>*. **CP, 2021**, International Conference on Principles and Practice of Constraint Programming, 2021 [[Link]](https://drops.dagstuhl.de/opus/volltexte/2021/15333/) 
+
 *   Maxime Mulamba, **Jayanta Mandi**, Michelangelo Diligenti, Michele Lombardi, Victor Bucarey Lopez  and Tias Guns.
     *<font color="#1A5276">Contrastive Losses and Solution Caching for Predict-and-Optimize</font>*. **IJCAI, 2021**, International Joint Conference on Artificial Intelligence, 2021 [[Link]](https://www.ijcai.org/proceedings/2021/390) 
 
