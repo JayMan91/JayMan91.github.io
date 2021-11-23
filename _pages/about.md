@@ -13,21 +13,21 @@ I am currently a PhD student at Vrije Universiteit Brussels. My Ph.D. advisor is
 
 # Conference Articles
 *   **Jayanta Mandi**, Rocsildes Canoy, Victor Bucarey Lopez and Tias Guns.
-    *<font color="#1A5276">Data Driven VRP: A Neural Network Model to Learn Hidden Preferences for VRP</font>*. **CP, 2021**, International Conference on Principles and Practice of Constraint Programming, 2021 [[Link]](https://drops.dagstuhl.de/opus/volltexte/2021/15333/) 
+    *<font color="#1A5276">Data Driven VRP: A Neural Network Model to Learn Hidden Preferences for VRP</font>*. **CP, 2021**, International Conference on Principles and Practice of Constraint Programming, 2021 [[Link]](https://drops.dagstuhl.de/opus/volltexte/2021/15333/) [[Code]](https://github.com/JayMan91/CP2021-Data-Driven-VRP)  [[Presentation]](https://www.youtube.com/watch?v=Mbc8asuz2sg)
 
 *   Maxime Mulamba, **Jayanta Mandi**, Michelangelo Diligenti, Michele Lombardi, Victor Bucarey Lopez  and Tias Guns.
-    *<font color="#1A5276">Contrastive Losses and Solution Caching for Predict-and-Optimize</font>*. **IJCAI, 2021**, International Joint Conference on Artificial Intelligence, 2021 [[Link]](https://www.ijcai.org/proceedings/2021/390) 
+    *<font color="#1A5276">Contrastive Losses and Solution Caching for Predict-and-Optimize</font>*. **IJCAI, 2021**, International Joint Conference on Artificial Intelligence, 2021 [[Link]](https://www.ijcai.org/proceedings/2021/390) [[Code]](https://github.com/CryoCardiogram/ijcai-cache-loss-pno) [[Presentation]](https://ijcai-21.org/videos-slides/?video=5079)
 
 
 *   **Jayanta Mandi** and Tias Guns.
-    *<font color="#1A5276">Interior Point Solving for LP-based prediction+optimisation</font>*. **NeurIPS, 2020**, Advances in Neural Information Processing Systems, 2020 [[Link]](https://proceedings.neurips.cc/paper/2020/hash/51311013e51adebc3c34d2cc591fefee-Abstract.html)   
+    *<font color="#1A5276">Interior Point Solving for LP-based prediction+optimisation</font>*. **NeurIPS, 2020**, Advances in Neural Information Processing Systems, 2020 [[Link]](https://proceedings.neurips.cc/paper/2020/hash/51311013e51adebc3c34d2cc591fefee-Abstract.html) [[Code]](https://github.com/JayMan91/NeurIPSIntopt) [[Poster]](files/NIPS20_7109.pdf)
     
     
 *   Maxime Mulamba, **Jayanta Mandi**, Rocsildes Canoy, Tias Guns. 
-    *<font color="#1A5276">Hybrid Classification and Reasoning for Image-based Constraint Solving</font>*. **CPAIOR, 2020**, 17th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research, 2020 [[Link]](https://link.springer.com/chapter/10.1007/978-3-030-58942-4_24)   
+    *<font color="#1A5276">Hybrid Classification and Reasoning for Image-based Constraint Solving</font>*. **CPAIOR, 2020**, 17th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research, 2020 [[Link]](https://link.springer.com/chapter/10.1007/978-3-030-58942-4_24) [[Presentation]](https://youtu.be/byyOQreSGXg?t=30)
 
 *   **Jayanta Mandi**, Emir Demirović, Peter. J Stuckey and Tias Guns.
-    *<font color="#1A5276">Smart Predict-and-Optimize for Hard Combinatorial Optimization Problems</font>*. **AAAI, 2020**, AAAI Conference on Artificial Intelligence, 2020 [[Link]](https://aaai.org/ojs/index.php/AAAI/article/view/5521) 
+    *<font color="#1A5276">Smart Predict-and-Optimize for Hard Combinatorial Optimization Problems</font>*. **AAAI, 2020**, AAAI Conference on Artificial Intelligence, 2020 [[Link]](https://aaai.org/ojs/index.php/AAAI/article/view/5521) [[Poster]](files/AAAI20_Poster.pdf)
 
 *   Dipankar Chakrabarti, Neelam Patodia, Udayan Bhattacharya, Indranil Mitra, Satyaki Roy, 
 	**Jayanta 	Mandi**,  Nandini Roy, Prasun Nandy. *<font color="#1A5276">Use of Artificial Intelligence to Analyse Risk in Legal	
