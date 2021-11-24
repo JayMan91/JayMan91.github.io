@@ -37,9 +37,9 @@ I am currently a PhD student at Vrije Universiteit Brussels. My Ph.D. advisor is
 *   Manisha Chakrabarty and **Jayanta 	Mandi**.
     *<font color="#1A5276">Entropy-Based Consumption Diversity—The Case of India</font>*. Opportunities and Challenges in Development, Springer, Singapore, 2019. 519-540. [[Link]](https://www.springerprofessional.de/en/entropy-based-consumption-diversity-the-case-of-india/17220174)   
 
-# Unpublished Articles
+# Article in Research Newsletter
 *   Ashok Banerjee, **Jayanta 	Mandi** and Deepnarayan Mukherjee.
-     *<font color="#1A5276">Developing a comprehensive earnings management score (EMS)</font>*. [[Link]](http://indiafa.org/wp-content/uploads/2017/06/My-piece-May-2017-2.pdf) 
+     *<font color="#1A5276">Developing a comprehensive earnings management score (EMS)</font>*. [[Link]](https://www.iimcal.ac.in/sites/all/files/pdfs/artha_may_17.pdf#page=6) 
 
 # Coverage in Popular Press
 * **<font color="#1A5276">Ideas for India</font>**. **Jayanta 	Mandi**, Manisha Chakrabarty and 
