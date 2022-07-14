@@ -12,6 +12,8 @@ I am currently a PhD student at Vrije Universiteit Brussels. My Ph.D. advisor is
 
 
 # Conference Articles
+*   **Jayanta Mandi**, Victor Bucarey Lopez, Maxime Mulamba and Tias Guns. *<font color="#1A5276">Decision-Focused Learning: Through the    Lens of Learning to Rank</font>*. **ICML, 2022**, International Conference on Machine Learning, 2022 [[Link]](https://proceedings.mlr.press/v162/mandi22a.html) [[Code]](https://github.com/JayMan91/ltr-predopt)  [[Presentation]](https://icml.cc/virtual/2022/spotlight/18376)
+
 *   **Jayanta Mandi**, Rocsildes Canoy, Victor Bucarey Lopez and Tias Guns.
     *<font color="#1A5276">Data Driven VRP: A Neural Network Model to Learn Hidden Preferences for VRP</font>*. **CP, 2021**, International Conference on Principles and Practice of Constraint Programming, 2021 [[Link]](https://drops.dagstuhl.de/opus/volltexte/2021/15333/) [[Code]](https://github.com/JayMan91/CP2021-Data-Driven-VRP)  [[Presentation]](https://www.youtube.com/watch?v=Mbc8asuz2sg)
 
