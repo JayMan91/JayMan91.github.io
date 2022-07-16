@@ -8,11 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student at Vrije Universiteit Brussels. My Ph.D. advisor is [Prof. dr. Tias Guns](http://homepages.vub.ac.be/~tiasguns/). My research falls at the confluence of machine learning and constraint optimization. I am particularly interested in "Predict and Optimize" framework, where I focus on integrating constraint optimization into machine learning framworks.
+I am currently a PhD student at Vrije Universiteit Brussels. My Ph.D. advisor is [Prof. dr. Tias Guns](http://homepages.vub.ac.be/~tiasguns/). My research falls at the confluence of machine learning (ML) and combinatorial optimization problem (COP). 
+
+In my PhD, I study *<font color="#FF6600">Decision-focused learning</font>*. In decision-focused learning, ML prediction is followed by COP for decision making. 
+The goal is to train the ML model, very often a neural network model, directly considering the error after the COP. The challenge is how to embed the COP into the ML training loop.  
+I work on differentiable optimizer, which enables passing the gradient through the COP for training the ML model. 
+I am also interested in scalable decision-focused learning, so that it can be applied in real-life COP, which are often NP-hard and difficult to solve. 
 
 
 # Conference Articles
-*   **Jayanta Mandi**, Victor Bucarey Lopez, Maxime Mulamba and Tias Guns. *<font color="#1A5276">Decision-Focused Learning: Through the    Lens of Learning to Rank</font>*. **ICML, 2022**, International Conference on Machine Learning, 2022 [[Link]](https://proceedings.mlr.press/v162/mandi22a.html) [[Code]](https://github.com/JayMan91/ltr-predopt)  [[Presentation]](https://icml.cc/virtual/2022/spotlight/18376)
+*   **Jayanta Mandi**, Victor Bucarey Lopez, Maxime Mulamba and Tias Guns. *<font color="#1A5276">Decision-Focused Learning: Through the    Lens of Learning to Rank</font>*. **ICML, 2022**, International Conference on Machine Learning, 2022 [[Link]](https://proceedings.mlr.press/v162/mandi22a.html) [[Code]](https://github.com/JayMan91/ltr-predopt)  [[Presentation]](https://icml.cc/virtual/2022/spotlight/18376) [[Poster]](files/ICMLposter.pdf)
 
 *   **Jayanta Mandi**, Rocsildes Canoy, Victor Bucarey Lopez and Tias Guns.
     *<font color="#1A5276">Data Driven VRP: A Neural Network Model to Learn Hidden Preferences for VRP</font>*. **CP, 2021**, International Conference on Principles and Practice of Constraint Programming, 2021 [[Link]](https://drops.dagstuhl.de/opus/volltexte/2021/15333/) [[Code]](https://github.com/JayMan91/CP2021-Data-Driven-VRP)  [[Presentation]](https://www.youtube.com/watch?v=Mbc8asuz2sg)
@@ -22,14 +27,14 @@ I am currently a PhD student at Vrije Universiteit Brussels. My Ph.D. advisor is
 
 
 *   **Jayanta Mandi** and Tias Guns.
-    *<font color="#1A5276">Interior Point Solving for LP-based prediction+optimisation</font>*. **NeurIPS, 2020**, Advances in Neural Information Processing Systems, 2020 [[Link]](https://proceedings.neurips.cc/paper/2020/hash/51311013e51adebc3c34d2cc591fefee-Abstract.html) [[Code]](https://github.com/JayMan91/NeurIPSIntopt) [[Poster]](files/NIPS20_7109.pdf)
+    *<font color="#1A5276">Interior Point Solving for LP-based prediction+optimisation</font>*. **NeurIPS, 2020**, Advances in Neural Information Processing Systems, 2020 [[Link]](https://proceedings.neurips.cc/paper/2020/hash/51311013e51adebc3c34d2cc591fefee-Abstract.html) [[Code]](https://github.com/JayMan91/NeurIPSIntopt) [[Poster]](files/NIPS20_7109.pdf) 
     
     
 *   Maxime Mulamba, **Jayanta Mandi**, Rocsildes Canoy, Tias Guns. 
     *<font color="#1A5276">Hybrid Classification and Reasoning for Image-based Constraint Solving</font>*. **CPAIOR, 2020**, 17th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research, 2020 [[Link]](https://link.springer.com/chapter/10.1007/978-3-030-58942-4_24) [[Presentation]](https://youtu.be/byyOQreSGXg?t=30)
 
 *   **Jayanta Mandi**, Emir Demirović, Peter. J Stuckey and Tias Guns.
-    *<font color="#1A5276">Smart Predict-and-Optimize for Hard Combinatorial Optimization Problems</font>*. **AAAI, 2020**, AAAI Conference on Artificial Intelligence, 2020 [[Link]](https://aaai.org/ojs/index.php/AAAI/article/view/5521) [[Poster]](files/AAAI20_Poster.pdf)
+    *<font color="#1A5276">Smart Predict-and-Optimize for Hard Combinatorial Optimization Problems</font>*. **AAAI, 2020**, AAAI Conference on Artificial Intelligence, 2020 [[Link]](https://aaai.org/ojs/index.php/AAAI/article/view/5521) [[Poster]](files/AAAI20_Poster.pdf) 
 
 *   Dipankar Chakrabarti, Neelam Patodia, Udayan Bhattacharya, Indranil Mitra, Satyaki Roy, 
 	**Jayanta 	Mandi**,  Nandini Roy, Prasun Nandy. *<font color="#1A5276">Use of Artificial Intelligence to Analyse Risk in Legal	
