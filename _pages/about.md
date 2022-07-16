@@ -13,7 +13,7 @@ I am currently a PhD student at Vrije Universiteit Brussels. My Ph.D. advisor is
 In my PhD, I study *<font color="#FF6600">Decision-focused learning</font>*. In decision-focused learning, ML prediction is followed by COP for decision making. 
 The goal is to train the ML model, very often a neural network model, directly considering the error after the COP. The challenge is how to embed the COP into the ML training loop.  
 I work on differentiable optimizer, which enables passing the gradient through the COP for training the ML model. 
-I am also interested in scalable decision-focused learning, so that it can be applied in real-life COP, which are often NP-hard and difficult to solve. 
+I am also interested in scalable decision-focused learning, so that it can be applied in real-life COPs, which are often NP-hard and difficult to solve. 
 
 
 # Conference Articles
