@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student at Vrije Universiteit Brussels. My Ph.D. advisor is [Prof. dr. Tias Guns](http://homepages.vub.ac.be/~tiasguns/). My research falls at the confluence of machine learning (ML) and combinatorial optimization problem (COP). 
+I am currently a *<font color="#FF6600">post-doctoral research associate at Vrije Universiteit Brussels</font>*. 
+I have completed my Ph.D. under the supervision of [Prof. dr. Tias Guns](http://homepages.vub.ac.be/~tiasguns/). My research falls at the confluence of machine learning (ML) and combinatorial optimization problem (COP). 
 
-In my PhD, I study *<font color="#FF6600">Decision-focused learning</font>*. In decision-focused learning, ML prediction is followed by COP for decision making. 
-The goal is to train the ML model, very often a neural network model, directly considering the error after the COP. The challenge is how to embed the COP into the ML training loop.  
-I work on differentiable optimizer, which enables passing the gradient through the COP for training the ML model. 
-I am also interested in scalable decision-focused learning, so that it can be applied in real-life COPs, which are often NP-hard and difficult to solve. 
+In my PhD, I have studied *<font color="#FF6600">Decision-focused learning</font>*. In decision-focused learning, ML prediction is followed by COP for decision-making. The goal is to train the ML model, very often a neural network model, directly considering the error after the COP. The primary challenge in the implementation decision-focused learning is how to embed the COP into the ML training loop. 
+To address this challenge, I have developed a differentiable optimizer, which enables passing the gradient through the COP for training the ML model. I am also interested in scalable decision-focused learning, so that it can be applied in real-life COPs, which are often NP-hard and time-consuming to solve. 
+
+ 
 
 
 # Conference Articles
