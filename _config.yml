@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jayanta Mandi"
   avatar           : "jayanta.png"
-  bio              : "PhD Student, Vrije Universiteit Brussel"
+  bio              : "Postdoctoral researcher, KU Leuven"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.be/citations?user=NvnKeFkAAAAJ&hl=en"
-  email            : "jayanta.mandi@vub.be" 
+  email            : "jayanta.mandi@kuleuven.be" 
   researchgate     :  "https://www.researchgate.net/profile/Jayanta_Mandi"
   uri              :
   bitbucket        :
