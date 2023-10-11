@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a *<font color="#FF6600">post-doctoral research associate at Vrije Universiteit Brussels</font>*. 
+I am currently a *<font color="#FF6600">post-doctoral research associate at KU Leuven</font>*. 
 I have completed my Ph.D. under the supervision of [Prof. dr. Tias Guns](https://people.cs.kuleuven.be/~tias.guns/). My research falls at the confluence of machine learning (ML) and combinatorial optimization problem (COP). 
 
 In my PhD, I have studied *<font color="#FF6600">Decision-focused learning</font>*. In decision-focused learning, ML prediction is followed by COP for decision-making. The goal is to train the ML model, very often a neural network model, directly considering the error after the COP. The primary challenge in the implementation decision-focused learning is how to embed the COP into the ML training loop. 
@@ -42,11 +42,13 @@ To address this challenge, I have developed a differentiable optimizer, which en
 	Documents for a Better Decision Support</font>*. **TENCON 2018**, IEEE Region 10 Conference, 2018 [[paper]](https://ieeexplore.ieee.org/document/8650382)   
 
 # Journal Articles
-*   Manisha Chakrabarty and **Jayanta 	Mandi**.
+* Rocsildes Canoy, Víctor Bucarey, **Jayanta Mandi** and Tias Guns. *<font color="#1A5276">Learn and route: learning implicit preferences for vehicle routing</font>*. Constraints (2023). 519-540. [[paper]](https://doi.org/10.1007/s10601-023-09363-2)   
+
+*   Manisha Chakrabarty and **Jayanta  Mandi**.
     *<font color="#1A5276">Entropy-Based Consumption Diversity—The Case of India</font>*. Opportunities and Challenges in Development, Springer, Singapore, 2019. 519-540. [[paper]](https://www.springerprofessional.de/en/entropy-based-consumption-diversity-the-case-of-india/17220174)   
 
 # Article in Research Newsletter
-*   Ashok Banerjee, **Jayanta 	Mandi** and Deepnarayan Mukherjee.
+*   Ashok Banerjee, **Jayanta Mandi** and Deepnarayan Mukherjee.
      *<font color="#1A5276">Developing a comprehensive earnings management score (EMS)</font>*. [[article]](https://www.iimcal.ac.in/sites/all/files/pdfs/artha_may_17.pdf#page=6) 
 
 # Coverage in Popular Press
