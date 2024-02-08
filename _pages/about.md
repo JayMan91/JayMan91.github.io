@@ -42,13 +42,13 @@ To address this challenge, I have developed a differentiable optimizer, which en
 	Documents for a Better Decision Support</font>*. **TENCON 2018**, IEEE Region 10 Conference, 2018 [[paper]](https://ieeexplore.ieee.org/document/8650382)   
 
 # Journal Articles
-* Rocsildes Canoy, Víctor Bucarey, **Jayanta Mandi**, Maxime Mulamba, Yves Molenbruch and Tias Guns.  *<font color="#1A5276">Probability estimation and structured output prediction for learning preferences in last mile delivery</font>*. Computers & Industrial Engineering (2024). 519-540.  [[paper]](https://doi.org/10.1016/j.cie.2024.109932)
+* Rocsildes Canoy, Víctor Bucarey, **Jayanta Mandi**, Maxime Mulamba, Yves Molenbruch and Tias Guns.  *<font color="#1A5276">Probability estimation and structured output prediction for learning preferences in last mile delivery</font>*. Computers & Industrial Engineering (2024).  [[paper]](https://doi.org/10.1016/j.cie.2024.109932)
 
 
-* Rocsildes Canoy, Víctor Bucarey, **Jayanta Mandi** and Tias Guns. *<font color="#1A5276">Learn and route: learning implicit preferences for vehicle routing</font>*. Constraints (2023). 519-540. [[paper]](https://doi.org/10.1007/s10601-023-09363-2)   
+* Rocsildes Canoy, Víctor Bucarey, **Jayanta Mandi** and Tias Guns. *<font color="#1A5276">Learn and route: learning implicit preferences for vehicle routing</font>*. Constraints (2023). [[paper]](https://doi.org/10.1007/s10601-023-09363-2)   
 
 *   Manisha Chakrabarty and **Jayanta  Mandi**.
-    *<font color="#1A5276">Entropy-Based Consumption Diversity—The Case of India</font>*. Opportunities and Challenges in Development, Springer, Singapore, 2019. 519-540. [[paper]](https://www.springerprofessional.de/en/entropy-based-consumption-diversity-the-case-of-india/17220174)   
+    *<font color="#1A5276">Entropy-Based Consumption Diversity—The Case of India</font>*. Opportunities and Challenges in Development, Springer, Singapore, 2019. [[paper]](https://www.springerprofessional.de/en/entropy-based-consumption-diversity-the-case-of-india/17220174)   
 
 # Article in Research Newsletter
 *   Ashok Banerjee, **Jayanta Mandi** and Deepnarayan Mukherjee.
