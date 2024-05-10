@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jayanta Mandi"
-  avatar           : "jayanta.png"
+  avatar           :  https://github.com/JayMan91/JayMan91.github.io/blob/master/images/JayantaMandi.jpg
   bio              : "Postdoctoral researcher, KU Leuven"
   location         : #"Location"
   employer         :
