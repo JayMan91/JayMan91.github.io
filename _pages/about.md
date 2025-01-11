@@ -8,16 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a *<font color="#FF6600">post-doctoral research associate at KU Leuven</font>*. 
-I have completed my Ph.D. under the supervision of [Prof. dr. Tias Guns](https://people.cs.kuleuven.be/~tias.guns/). My research falls at the confluence of machine learning (ML) and combinatorial optimization problem (COP). 
+I am currently a <font color="#FF6600">Post-Doctoral Research Associate at KU Leuven</font>.
+I completed my Ph.D. under the supervision of [Prof. dr. Tias Guns](https://people.cs.kuleuven.be/~tias.guns/). My research lies at the intersection of Machine Learning (ML) and Combinatorial Optimization Problems (COP).
 
-In my PhD, I have studied *<font color="#FF6600">Decision-focused learning</font>*. In decision-focused learning, ML prediction is followed by COP for decision-making. The goal is to train the ML model, very often a neural network model, directly considering the error after the COP.
- 
+During my Ph.D., I studied <font color="#FF6600">Decision-Focused Learning (DFL)</font>. In DFL, ML predictions are followed by COP for decision-making. The objective is to train the ML model, often a neural network, to minimize the error of the COP solutions.
+
+# Teaching Experience
+* I delivered a guest lecture in the course <font color="#1A5276">Declarative Problem Solving Paradigms in AI</font> at KU Leuven, where I introduced Decision-Focused Learning to master's students.
+
+* I gave a seminar lecture titled <font color="#1A5276">'An Introduction to Decision-Focused Learning for Contextual Stochastic Optimization'</font> at Universidad de O'Higgins, Rancagua, Chile.
+
+* I have supervised and continue to supervise master’s students in their thesis, offering guidance on research methodology, data analysis, and the organization of their thesis.
 
 # Conference Articles
-* **Jayanta Mandi**, Marco Foschini, Daniel Holler, Sylvie Thiébaux, Jorg Hoffmann, Tias Guns.  *<font color="#1A5276">Decision-Focused Learning to Predict Action Costs for Planning</font>*. **ECAI, 2022**, 7th European Conference on Artificial Intelligence [[paper]](https://ebooks.iospress.nl/doi/10.3233/FAIA240975) [[Code]](https://github.com/ML-KULeuven/DFLPredict-Action-Costs-for-Planning) 
+* **Jayanta Mandi**, Marco Foschini, Daniel Holler, Sylvie Thiébaux, Jorg Hoffmann, Tias Guns.  *<font color="#1A5276">Decision-Focused Learning to Predict Action Costs for Planning</font>*. **ECAI, 2024**, 7th European Conference on Artificial Intelligence [[paper]](https://ebooks.iospress.nl/doi/10.3233/FAIA240975) [[Code]](https://github.com/ML-KULeuven/DFLPredict-Action-Costs-for-Planning) 
 
-*   **Jayanta Mandi**, Victor Bucarey Lopez, Maxime Mulamba and Tias Guns. *<font color="#1A5276">Decision-Focused Learning: Through the    Lens of Learning to Rank</font>*. **ICML, 2022**, International Conference on Machine Learning, 2022 [[paper]](https://proceedings.mlr.press/v162/mandi22a.html) [[Code]](https://github.com/JayMan91/ltr-predopt)  [[Presentation]](https://icml.cc/virtual/2022/spotlight/18376) [[Poster]](files/ICMLposter.pdf)
+*   **Jayanta Mandi**, Victor Bucarey Lopez, Maxime Mulamba and Tias Guns. *<font color="#1A5276">Decision-Focused Learning: Through the Lens of Learning to Rank</font>*. **ICML, 2022**, International Conference on Machine Learning, 2022 [[paper]](https://proceedings.mlr.press/v162/mandi22a.html) [[Code]](https://github.com/JayMan91/ltr-predopt)  [[Presentation]](https://icml.cc/virtual/2022/spotlight/18376) [[Poster]](files/ICMLposter.pdf)
 
 *   **Jayanta Mandi**, Rocsildes Canoy, Victor Bucarey Lopez and Tias Guns.
     *<font color="#1A5276">Data Driven VRP: A Neural Network Model to Learn Hidden Preferences for VRP</font>*. **CP, 2021**, International Conference on Principles and Practice of Constraint Programming, 2021 [[paper]](https://drops.dagstuhl.de/opus/volltexte/2021/15333/) [[Code]](https://github.com/JayMan91/CP2021-Data-Driven-VRP)  [[Presentation]](https://www.youtube.com/watch?v=Mbc8asuz2sg)
