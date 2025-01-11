@@ -11,13 +11,12 @@ redirect_from:
 I am currently a *<font color="#FF6600">post-doctoral research associate at KU Leuven</font>*. 
 I have completed my Ph.D. under the supervision of [Prof. dr. Tias Guns](https://people.cs.kuleuven.be/~tias.guns/). My research falls at the confluence of machine learning (ML) and combinatorial optimization problem (COP). 
 
-In my PhD, I have studied *<font color="#FF6600">Decision-focused learning</font>*. In decision-focused learning, ML prediction is followed by COP for decision-making. The goal is to train the ML model, very often a neural network model, directly considering the error after the COP. The primary challenge in the implementation decision-focused learning is how to embed the COP into the ML training loop. 
-To address this challenge, I have developed a differentiable optimizer, which enables passing the gradient through the COP for training the ML model. I am also interested in scalable decision-focused learning, so that it can be applied in real-life COPs, which are often NP-hard and time-consuming to solve. 
-
+In my PhD, I have studied *<font color="#FF6600">Decision-focused learning</font>*. In decision-focused learning, ML prediction is followed by COP for decision-making. The goal is to train the ML model, very often a neural network model, directly considering the error after the COP.
  
 
-
 # Conference Articles
+* **Jayanta Mandi**, Marco Foschini, Daniel Holler, Sylvie Thiébaux, Jorg Hoffmann, Tias Guns.  *<font color="#1A5276">Decision-Focused Learning to Predict Action Costs for Planning</font>*. **ECAI, 2022**, 7th European Conference on Artificial Intelligence [[paper]](https://ebooks.iospress.nl/doi/10.3233/FAIA240975) [[Code]](https://github.com/ML-KULeuven/DFLPredict-Action-Costs-for-Planning) 
+
 *   **Jayanta Mandi**, Victor Bucarey Lopez, Maxime Mulamba and Tias Guns. *<font color="#1A5276">Decision-Focused Learning: Through the    Lens of Learning to Rank</font>*. **ICML, 2022**, International Conference on Machine Learning, 2022 [[paper]](https://proceedings.mlr.press/v162/mandi22a.html) [[Code]](https://github.com/JayMan91/ltr-predopt)  [[Presentation]](https://icml.cc/virtual/2022/spotlight/18376) [[Poster]](files/ICMLposter.pdf)
 
 *   **Jayanta Mandi**, Rocsildes Canoy, Victor Bucarey Lopez and Tias Guns.
@@ -25,7 +24,6 @@ To address this challenge, I have developed a differentiable optimizer, which en
 
 *   Maxime Mulamba, **Jayanta Mandi**, Michelangelo Diligenti, Michele Lombardi, Victor Bucarey Lopez  and Tias Guns.
     *<font color="#1A5276">Contrastive Losses and Solution Caching for Predict-and-Optimize</font>*. **IJCAI, 2021**, International Joint Conference on Artificial Intelligence, 2021 [[paper]](https://www.ijcai.org/proceedings/2021/390) [[Code]](https://github.com/CryoCardiogram/ijcai-cache-loss-pno) [[Presentation]](https://ijcai-21.org/videos-slides/?video=5079)
-
 
 *   **Jayanta Mandi** and Tias Guns.
     *<font color="#1A5276">Interior Point Solving for LP-based prediction+optimisation</font>*. **NeurIPS, 2020**, Advances in Neural Information Processing Systems, 2020 [[paper]](https://proceedings.neurips.cc/paper/2020/hash/51311013e51adebc3c34d2cc591fefee-Abstract.html) [[Code]](https://github.com/JayMan91/NeurIPSIntopt) [[Poster]](files/NIPS20_7109.pdf) 
@@ -38,25 +36,24 @@ To address this challenge, I have developed a differentiable optimizer, which en
     *<font color="#1A5276">Smart Predict-and-Optimize for Hard Combinatorial Optimization Problems</font>*. **AAAI, 2020**, AAAI Conference on Artificial Intelligence, 2020 [[paper]](https://aaai.org/ojs/index.php/AAAI/article/view/5521) [[Poster]](files/AAAI20_Poster.pdf) 
 
 *   Dipankar Chakrabarti, Neelam Patodia, Udayan Bhattacharya, Indranil Mitra, Satyaki Roy, 
-	**Jayanta 	Mandi**,  Nandini Roy, Prasun Nandy. *<font color="#1A5276">Use of Artificial Intelligence to Analyse Risk in Legal	
-	Documents for a Better Decision Support</font>*. **TENCON 2018**, IEEE Region 10 Conference, 2018 [[paper]](https://ieeexplore.ieee.org/document/8650382)   
+    **Jayanta   Mandi**,  Nandini Roy, Prasun Nandy. *<font color="#1A5276">Use of Artificial Intelligence to Analyse Risk in Legal 
+    Documents for a Better Decision Support</font>*. **TENCON 2018**, IEEE Region 10 Conference, 2018 [[paper]](https://ieeexplore.ieee.org/document/8650382)   
 
 # Journal Articles
-* Rocsildes Canoy, Víctor Bucarey, **Jayanta Mandi**, Maxime Mulamba, Yves Molenbruch and Tias Guns.  *<font color="#1A5276">Probability estimation and structured output prediction for learning preferences in last mile delivery</font>*. Computers & Industrial Engineering (2024).  [[paper]](https://doi.org/10.1016/j.cie.2024.109932)
+* Maxime Mulamba, **Jayanta Mandi**, Ali İrfan Mahmutoğulları, Tias Guns. *<font color="#1A5276">Perception-based constraint solving for sudoku images</font>*. Constraints (2024). 1-40. [[paper]](https://link.springer.com/article/10.1007/s10601-024-09372-9)   
 
-
-* Rocsildes Canoy, Víctor Bucarey, **Jayanta Mandi** and Tias Guns. *<font color="#1A5276">Learn and route: learning implicit preferences for vehicle routing</font>*. Constraints (2023). [[paper]](https://doi.org/10.1007/s10601-023-09363-2)   
+* Rocsildes Canoy, Víctor Bucarey, **Jayanta Mandi** and Tias Guns. *<font color="#1A5276">Learn and route: learning implicit preferences for vehicle routing</font>*. Constraints (2023). 519-540. [[paper]](https://doi.org/10.1007/s10601-023-09363-2)   
 
 *   Manisha Chakrabarty and **Jayanta  Mandi**.
-    *<font color="#1A5276">Entropy-Based Consumption Diversity—The Case of India</font>*. Opportunities and Challenges in Development, Springer, Singapore, 2019. [[paper]](https://www.springerprofessional.de/en/entropy-based-consumption-diversity-the-case-of-india/17220174)   
+    *<font color="#1A5276">Entropy-Based Consumption Diversity—The Case of India</font>*. Opportunities and Challenges in Development, Springer, Singapore, 2019. 519-540. [[paper]](https://www.springerprofessional.de/en/entropy-based-consumption-diversity-the-case-of-india/17220174)   
 
 # Article in Research Newsletter
 *   Ashok Banerjee, **Jayanta Mandi** and Deepnarayan Mukherjee.
      *<font color="#1A5276">Developing a comprehensive earnings management score (EMS)</font>*. [[article]](https://www.iimcal.ac.in/sites/all/files/pdfs/artha_may_17.pdf#page=6) 
 
 # Coverage in Popular Press
-* **<font color="#1A5276">Ideas for India</font>**. **Jayanta 	Mandi**, Manisha Chakrabarty and 
-	Subhankar Mukherjee. *<font color="#1A5276">"How to ease Covid-19 lockdown? Forward guidance using a multi-dimensional vulnerability index"</font>*. [[article]](https://www.ideasforindia.in/topics/macroeconomics/how-to-ease-covid-19-lockdown-forward-guidance-using-a-multidimensional-vulnerability-index.html)
+* **<font color="#1A5276">Ideas for India</font>**. **Jayanta   Mandi**, Manisha Chakrabarty and 
+    Subhankar Mukherjee. *<font color="#1A5276">"How to ease Covid-19 lockdown? Forward guidance using a multi-dimensional vulnerability index"</font>*. [[article]](https://www.ideasforindia.in/topics/macroeconomics/how-to-ease-covid-19-lockdown-forward-guidance-using-a-multidimensional-vulnerability-index.html)
 
-* **<font color="#1A5276">Business Standrd</font>**. Ashok Banerjee, **Jayanta 	Mandi** and Deep N 
-	Mukherjee. *<font color="#1A5276">"Earnings management in stressed firms"</font>*. [[article]](https://www.business-standard.com/article/companies/earnings-management-in-stressed-firms-117073101722_1.html)
+* **<font color="#1A5276">Business Standrd</font>**. Ashok Banerjee, **Jayanta  Mandi** and Deep N 
+    Mukherjee. *<font color="#1A5276">"Earnings management in stressed firms"</font>*. [[article]](https://www.business-standard.com/article/companies/earnings-management-in-stressed-firms-117073101722_1.html)
