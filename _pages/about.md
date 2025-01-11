@@ -14,7 +14,7 @@ I completed my Ph.D. under the supervision of [Prof. dr. Tias Guns](https://peop
 During my Ph.D., I studied <font color="#FF6600">Decision-Focused Learning (DFL)</font>. In DFL, ML predictions are followed by COP for decision-making. The objective is to train the ML model, often a neural network, to minimize the error of the COP solutions.
 
 # Teaching Experience
-* I delivered a guest lecture in the course <font color="#1A5276">[Declarative Problem Solving Paradigms in AI](https://onderwijsaanbod.kuleuven.be/syllabi/e/H02A3AE.htm#activetab=doelstellingen_idp1521920)</font> at KU Leuven, where I introduced Decision-Focused Learning to master's students.
+* I delivered a guest lecture in the course [Declarative Problem Solving Paradigms in AI](https://onderwijsaanbod.kuleuven.be/syllabi/e/H02A3AE.htm#activetab=doelstellingen_idp1521920) at KU Leuven, where I introduced Decision-Focused Learning to master's students.
 
 * I gave a seminar lecture titled <font color="#1A5276">'An Introduction to Decision-Focused Learning for Contextual Stochastic Optimization'</font> at Universidad de O'Higgins, Rancagua, Chile.
 
