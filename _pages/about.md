@@ -12,17 +12,20 @@ I am currently a <font color="#FF6600">Post-Doctoral Research Associate at KU Le
 I completed my Ph.D. under the supervision of [Prof. dr. Tias Guns](https://people.cs.kuleuven.be/~tias.guns/). My research lies at the intersection of Machine Learning (ML) and Combinatorial Optimization Problems (COP).
 
 During my Ph.D., I studied <font color="#FF6600">Decision-Focused Learning (DFL)</font>. In DFL, ML predictions are followed by COP for decision-making. The objective is to train the ML model, often a neural network, to minimize the error of the COP solutions.
+# Updates
+* **October 2025**: Paper accepted at **NeurIPS 2025** [[paper]](https://www.arxiv.org/pdf/2510.04951) [[Code]](https://github.com/JayMan91/OdeceDFLforConstraintsNeurips25) 
+
+* **September 2025**: Paper accepted at **ECAI 2025** [[paper]](https://doi.org/10.3233/FAIA251273) [[Code]](https://github.com/JayMan91/DYS-NET-SCE) 
+
+
 # Teaching Experience
+* I am working as a teaching assistant in the [Fundamentals of AI course](https://onderwijsaanbod.kuleuven.be/2025/syllabi/e/H02A0CE.htm) at KU Leuven.
+
 * I delivered a guest lecture in the course [Declarative Problem Solving Paradigms in AI](https://onderwijsaanbod.kuleuven.be/syllabi/e/H02A3AE.htm#activetab=doelstellingen_idp1521920) at KU Leuven, where I introduced Decision-Focused Learning to master's students.
 
 * I gave a seminar lecture titled <font color="#1A5276">'An Introduction to Decision-Focused Learning for Contextual Stochastic Optimization'</font> at Universidad de O'Higgins, Rancagua, Chile.
 
 * I have supervised and continue to supervise master's students in their thesis, offering guidance on research methodology, data analysis, and the organization of their thesis.
-
-# Updates
-* **October 2025**: Paper accepted at **NeurIPS 2025** [[paper]](https://www.arxiv.org/pdf/2510.04951) [[Code]](https://github.com/JayMan91/OdeceDFLforConstraintsNeurips25) 
-
-* **September 2025**: Paper accepted at **ECAI 2025** [[paper]](https://doi.org/10.3233/FAIA251273) [[Code]](https://github.com/JayMan91/DYS-NET-SCE) 
 
 
 # Conference Articles
