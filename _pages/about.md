@@ -51,6 +51,8 @@ During my Ph.D., I studied <font color="#FF6600">Decision-Focused Learning (DFL)
     Documents for a Better Decision Support</font>*. **TENCON 2018**, IEEE Region 10 Conference, 2018 [[paper]](https://ieeexplore.ieee.org/document/8650382)   
 
 # Journal Articles
+* **Jayanta Mandi**, James Kotary, Senne Berden, Maxime Mulamba, Victor Bucarey, Tias Guns and Ferdinando Fioretto. *<font color="#1A5276">Decision-focused learning: Foundations, state of the art, benchmark and future opportunities</font>*. Journal of Artificial Intelligence Research (2024). 80, 1623-1701. [[paper]](https://www.jair.org/index.php/jair/article/view/15943)
+
 * Maxime Mulamba, **Jayanta Mandi**, Ali İrfan Mahmutoğulları, Tias Guns. *<font color="#1A5276">Perception-based constraint solving for sudoku images</font>*. Constraints (2024). 1-40. [[paper]](https://link.springer.com/article/10.1007/s10601-024-09372-9)   
 
 * Rocsildes Canoy, Víctor Bucarey, **Jayanta Mandi** and Tias Guns. *<font color="#1A5276">Learn and route: learning implicit preferences for vehicle routing</font>*. Constraints (2023). 519-540. [[paper]](https://doi.org/10.1007/s10601-023-09363-2)   
