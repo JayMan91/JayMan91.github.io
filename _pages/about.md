@@ -15,7 +15,7 @@ During my Ph.D., I studied <font color="#FF6600">Decision-Focused Learning (DFL)
 
 
 # Teaching Experience
-* I am working as a teaching assistant in the [Fundamentals of AI course](https://onderwijsaanbod.kuleuven.be/2025/syllabi/e/H02A0CE.htm) at KU Leuven.
+* I have worked as a teaching assistant in the [Fundamentals of AI course](https://onderwijsaanbod.kuleuven.be/2025/syllabi/e/H02A0CE.htm) at KU Leuven.
 
 * I delivered a guest lecture in the course [Declarative Problem Solving Paradigms in AI](https://onderwijsaanbod.kuleuven.be/syllabi/e/H02A3AE.htm#activetab=doelstellingen_idp1521920) at KU Leuven, where I introduced Decision-Focused Learning to master's students.
 
@@ -25,9 +25,9 @@ During my Ph.D., I studied <font color="#FF6600">Decision-Focused Learning (DFL)
 
 
 # Conference Articles
-* **Mandi, Jayanta**, Marianne Defresne, Senne Berden, and Tias Guns. *<font color="#1A5276">Feasibility-Aware Decision-Focused Learning for Predicting Parameters in the Constraints</font>*. Advances in Neural Information Processing Systems 38 (2026): 163285-163309. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/ef158a0d4f5364741a571b8d1d44fb1b-Abstract-Conference.html) [[Code]](https://github.com/JayMan91/OdeceDFLforConstraintsNeurips25) 
+* **Mandi Jayanta**, Marianne Defresne, Senne Berden, and Tias Guns. *<font color="#1A5276">Feasibility-Aware Decision-Focused Learning for Predicting Parameters in the Constraints</font>*. Advances in Neural Information Processing Systems 38 (2026): 163285-163309. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/ef158a0d4f5364741a571b8d1d44fb1b-Abstract-Conference.html) [[Code]](https://github.com/JayMan91/OdeceDFLforConstraintsNeurips25) 
 
-* **Mandi, Jayanta**, Ali İrfan Mahmutoğulları, Senne Berden, and Tias Guns.  *<font color="#1A5276">Minimizing Surrogate Losses for Decision-Focused Learning using Differentiable Optimizationg</font>*.  In 28th European Conference on Artificial Intelligence, Including 14th Conference on Prestigious Applications of Intelligent Systems (PAIS 2025), vol. 413, pp. 3888-3895. IOS Press, 2025.[[paper]](https://doi.org/10.3233/FAIA251273) [[Code]](https://github.com/JayMan91/DYS-NET-SCE)
+* **Mandi Jayanta**, Ali İrfan Mahmutoğulları, Senne Berden, and Tias Guns.  *<font color="#1A5276">Minimizing Surrogate Losses for Decision-Focused Learning using Differentiable Optimizationg</font>*.  In 28th European Conference on Artificial Intelligence, Including 14th Conference on Prestigious Applications of Intelligent Systems (PAIS 2025), vol. 413, pp. 3888-3895. IOS Press, 2025.[[paper]](https://doi.org/10.3233/FAIA251273) [[Code]](https://github.com/JayMan91/DYS-NET-SCE)
 
 * **Jayanta Mandi**, Marco Foschini, Daniel Holler, Sylvie Thiébaux, Jorg Hoffmann, Tias Guns.  *<font color="#1A5276">Decision-Focused Learning to Predict Action Costs for Planning</font>*. **ECAI, 2024**, 7th European Conference on Artificial Intelligence [[paper]](https://ebooks.iospress.nl/doi/10.3233/FAIA240975) [[Code]](https://github.com/ML-KULeuven/DFLPredict-Action-Costs-for-Planning) 
 
