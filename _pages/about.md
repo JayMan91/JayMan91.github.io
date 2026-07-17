@@ -7,9 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am currently a <font color="#FF6600">Post-Doctoral Research Associate at KU Leuven</font>.
-I completed my Ph.D. under the supervision of [Prof. dr. Tias Guns](https://people.cs.kuleuven.be/~tias.guns/). My research lies at the intersection of Machine Learning (ML) and Combinatorial Optimization Problems (COP).
+I am a Postdoctoral Research Assistant at Loughborough University, focusing on AI applications in transport planning. I am supervised by [Prof. Haitao He](https://www.lboro.ac.uk/schools/abce/staff/haitao-he/). Prior to that I was a post-doctoral research associate at KU Leuven. 
+I did my Ph.D. under the supervision of [Prof. dr. Tias Guns](https://people.cs.kuleuven.be/~tias.guns/). My research lies at the intersection of Machine Learning (ML) and Combinatorial Optimization Problems (COP).
 
 During my Ph.D., I studied <font color="#FF6600">Decision-Focused Learning (DFL)</font>. In DFL, ML predictions are followed by COP for decision-making. The objective is to train the ML model, often a neural network, to minimize the error of the COP solutions.
 # Updates
